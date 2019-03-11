@@ -1,6 +1,6 @@
 git is a  distributed 1  version control system
 git is free software under the GPL
-
+git has a mutable index stage.
 
 
 git init 初始化该文件夹
