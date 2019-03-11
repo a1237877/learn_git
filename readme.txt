@@ -1,4 +1,4 @@
-git is a  distributed   version control system
+git is a  distributed 1  version control system
 git is free software 
 
 
